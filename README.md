@@ -68,5 +68,4 @@ For more details, visit [CODSOFT's Website](https://www.codsoft.in).
 ## Contact
 
 For any questions or collaboration opportunities:
-- **Email**: contact@codsoft.in
-- **Website**: [CODSOFT](https://www.codsoft.in)
+- **Email**: elansarimostapha011@gmail.com
